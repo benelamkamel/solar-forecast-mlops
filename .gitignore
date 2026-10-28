@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+src/__init__.py
+# Données du projet (retéléchargeables via les scripts)
+data/
+
+# Réglages VS Code personnels
+.vscode/
